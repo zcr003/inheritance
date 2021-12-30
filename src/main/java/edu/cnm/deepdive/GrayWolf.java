@@ -10,6 +10,9 @@ public class GrayWolf {
     System.out.println("Hunt for live prey in packs.");
   }
 
+  public void fur() {
+    System.out.println("Keeps them warm in colder climates");
+  }
 
 
 }

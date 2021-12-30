@@ -7,4 +7,9 @@ public class Dog extends GrayWolf {
   public void vocalize() {
     System.out.println("Bark!");
   }
+
+  @Override
+  public void fur() {
+    super.fur();
+  }
 }
